@@ -1,0 +1,16 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "An application that is ran from the terminal that utilizes mysql, node.js, and inquirer to keep track of a company's employees.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.0"
+  }
+}
